@@ -1,0 +1,26 @@
+{
+  "name": "coming-soon-abdelhamed1996",
+  "version": "1.0.0",
+  "description": "## Aufgabe:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fbw9dus/coming-soon-Abdelhamed1996.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fbw9dus/coming-soon-Abdelhamed1996/issues"
+  },
+  "homepage": "https://github.com/fbw9dus/coming-soon-Abdelhamed1996#readme",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "webpack": "^4.41.3"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.10"
+  }
+}
